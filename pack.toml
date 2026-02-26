@@ -1,12 +1,12 @@
 name = "A Cobblemon Pack that Isn't Mid"
 author = "violetshiver"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "847d4a1f788c044e3277d54efd9877bdfcb3377c996a292d04f96f777926ab80"
+hash = "96fb10576ad378e2cfecaf11ed5d031c1422256d13eb85d97a2d22255daa12a1"
 
 [versions]
 minecraft = "1.21.1"
