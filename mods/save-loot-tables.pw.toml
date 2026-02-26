@@ -1,0 +1,13 @@
+name = "Save Loot Tables"
+filename = "saveloottables-neoforge-1.21-1.0.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWdzDOrP/versions/dY3DXDy1/saveloottables-neoforge-1.21-1.0.0.0.jar"
+hash-format = "sha512"
+hash = "290d9672b7facdbb6cda0bf1e97690beef426f2d8b9a936255438778c0cc5809c8cf036a8fd4a9ce37dec1513c5d6a9f879b710abb5bed479d76b1d398926534"
+
+[update]
+[update.modrinth]
+mod-id = "uWdzDOrP"
+version = "dY3DXDy1"

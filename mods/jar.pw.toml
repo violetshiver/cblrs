@@ -1,0 +1,8 @@
+name = "jar"
+filename = "unsup.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/violetshiver/cblrs/refs/heads/main/unsup.jar"
+hash-format = "sha256"
+hash = "973b84f231dee775e4855e084448b350e7f593678f20025c35912a3ab359fa54"

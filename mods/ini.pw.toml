@@ -1,0 +1,8 @@
+name = "ini"
+filename = "unsup.ini"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/violetshiver/cblrs/refs/heads/main/unsup.ini"
+hash-format = "sha256"
+hash = "42aa64ede3a7654e03fe53f2eb8d71a7ff619062f621b9d3db6536c1a2acbb78"
