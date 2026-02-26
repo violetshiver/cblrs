@@ -261,6 +261,11 @@ hash = "0477b9e0610e8ebdf5ce633687a08eb9ee86be6d3c244b2b6d291491bc8940fa"
 metafile = true
 
 [[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "bd78ebd2b96cdfd35557a337bafe9bdaf7c743a6a80eb6b9f38e4c9fd17ae21b"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
