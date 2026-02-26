@@ -1,0 +1,13 @@
+name = "Cobblemon Ultra-Beasts"
+filename = "UltraBeasts-3.0+Cobblemon-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cca5e60d40df2b382dbc5e522d2b64f3ae40523"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7562378
+project-id = 1333072

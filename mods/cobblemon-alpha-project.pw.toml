@@ -1,0 +1,13 @@
+name = "Cobblemon Alpha Project"
+filename = "cobblemonalphas-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QnWyhFGf/versions/AiAqRJIo/cobblemonalphas-1.4.1.jar"
+hash-format = "sha512"
+hash = "6bc4d272eb1a8bdd2b94c56706e3e7e43c8acbeee64ff6d647c3369159c7d62b3e73f8cadc952770ab45ceeb5c3aa77e0a7116902e1932f280fd1c842c26ca5a"
+
+[update]
+[update.modrinth]
+mod-id = "QnWyhFGf"
+version = "AiAqRJIo"

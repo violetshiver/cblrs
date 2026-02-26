@@ -1,0 +1,13 @@
+name = "Cobblemon Pokerus"
+filename = "pokerus-neoforge-1.7.3-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DHb4dWwO/versions/Le4IeXZt/pokerus-neoforge-1.7.3-1.1.0.jar"
+hash-format = "sha512"
+hash = "0d37ce398f15a9ab798294605cb154630c371c0b3a49df5487d1672fcab7838c4235db558219d6663c5505d7a1c19fa5934ddc415e26d672393b6e816ed7a00d"
+
+[update]
+[update.modrinth]
+mod-id = "DHb4dWwO"
+version = "Le4IeXZt"
