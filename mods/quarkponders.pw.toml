@@ -1,0 +1,13 @@
+name = "QuarkPonders"
+filename = "QuarkPonders-1.3_NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JY7his81/versions/20bQIxlJ/QuarkPonders-1.3_NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "05b57339d11b36f9ac09802d6aaac3c176ae8825e451203c6935ecd38a5e1ccfe41ae955d0da18b9ce1e3ab50bab2b581c6ac76ea476c9de6a6d571abfde2cb6"
+
+[update]
+[update.modrinth]
+mod-id = "JY7his81"
+version = "20bQIxlJ"

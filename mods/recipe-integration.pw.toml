@@ -1,0 +1,13 @@
+name = "Recipe Integration"
+filename = "recipe_integration-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/35hUUUwA/versions/uVUhhVIS/recipe_integration-0.3.0.jar"
+hash-format = "sha512"
+hash = "e92d4186e64f82f305331a3daa3a75822591fd1fc9b8ca35f44392de6b1959a2ce9366c0cb57b9839a3cb59f714f2dfc5ea847bc0f5f6adf3e6f2a2206adf4cd"
+
+[update]
+[update.modrinth]
+mod-id = "35hUUUwA"
+version = "uVUhhVIS"

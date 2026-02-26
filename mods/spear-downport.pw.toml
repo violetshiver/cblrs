@@ -1,0 +1,13 @@
+name = "Spear Backport"
+filename = "spear_downport-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x10JZ1lh/versions/IHZFQaoN/spear_downport-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "566e2212b2bc996acbce9fc081506fcc824343018ad4ac8de65c18a9061e513985b4e726992eae0f7468ff3a4e4dd04c97db33514ed7f29cb7f5cd855d24cd43"
+
+[update]
+[update.modrinth]
+mod-id = "x10JZ1lh"
+version = "IHZFQaoN"
