@@ -141,6 +141,16 @@ hash = "66a236d541f1217d413545fa3f81ea3d2533e57a82b85e2a11880793b1982968"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
+metafile = true
+
+[[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "92705ff84059ac0735eb0dac4eac6a6f7e03049d2eead27c0a127a7320410668"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "b5b46e4d9cc18c1e2c19c59a7ed58918e49fb5a6692c538e638fb52b82b023a5"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/cluttered.pw.toml"
 hash = "503569d1bccf50d580e517550e8f66574d881deac197f30fedb0a18ebb5d3ff4"
+metafile = true
+
+[[files]]
+file = "mods/cobble-caf-forms.pw.toml"
+hash = "867d570b55e8acdbb9577ee9781a5512463a9b560beb5bf85af6e00bbdd351f6"
 metafile = true
 
 [[files]]
@@ -336,6 +351,11 @@ hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
 
 [[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "ad8b1ffca6d2795db8e0d1acf25d415a5f41f9add2ac2fc975ae419bc404c11f"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
 metafile = true
@@ -346,6 +366,11 @@ hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
+file = "mods/create-train-parts.pw.toml"
+hash = "bde53718df2ad68c55a0d4d80570a4fc9252562bcdd5574035a97ba1246b139f"
+metafile = true
+
+[[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
 metafile = true
@@ -353,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "626f08493ba89cfc07ec5329d5bd642488f2f09299ec9651d0da71480cd991ef"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
@@ -431,6 +461,16 @@ hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
 metafile = true
 
 [[files]]
+file = "mods/exposure-detective.pw.toml"
+hash = "0a1ea31a5fe6f62e55b343d4e9f242afdd811d35a49143da8f19257e8ae59908"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "87908da171a79c74062db88cd9f2a7283ab52eec1cf4194af415d34105c5ef9a"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "43772cecb231febf642295f4713b09d59941778ef1a32c5c86ef100ea7d35787"
 metafile = true
@@ -496,6 +536,11 @@ hash = "714e84a8574f92dd50e37f5e6751fb29a171b080e2dd6852bcf38befeafefde2"
 metafile = true
 
 [[files]]
+file = "mods/ini.pw.toml"
+hash = "859ec92548a335fa84b462baeae905652857599dcb799cfd2dd98ea9dcca6b80"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -521,6 +566,11 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
+file = "mods/jar.pw.toml"
+hash = "f4142937000aab1d5dc42a3702b9756dbd9f8377c47978b4a3fbffb97177e721"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
@@ -533,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
+metafile = true
+
+[[files]]
+file = "mods/klinksnklangs.pw.toml"
+hash = "d4e73044ef837c0e5c4cb06b35bec04d14acd3deca2b241a8718bcca21a9c3c3"
 metafile = true
 
 [[files]]
@@ -598,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/lootrmon.pw.toml"
 hash = "fe566b5e7f0bda72789fe5b1ff8925535d5791c7c0e197fe398521666242b7bf"
+metafile = true
+
+[[files]]
+file = "mods/magic-of-color.pw.toml"
+hash = "94bc7cd7dde7850bcbeffa7c82863d1839852e2bef0e0a6842be0a5fff307bfd"
 metafile = true
 
 [[files]]
@@ -711,6 +771,11 @@ hash = "42f957a86f67cfa7bd0e0ca3336e25a6b5b932a069d1b8b035df4ea81abdbc14"
 metafile = true
 
 [[files]]
+file = "mods/pastel-mod.pw.toml"
+hash = "bdddda36c259addde0e8c6683f3d90aed915e8d13f9dfe98503388293d353c48"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "bcbefa28dda9e9de6e31a92314511444bea08d53de0dc458ebd3f5cc053a24fb"
 metafile = true
@@ -773,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
+metafile = true
+
+[[files]]
+file = "mods/save-loot-tables.pw.toml"
+hash = "2b590667f106da492f6586b13d2c6b2c1f0251ad379460ae444a61e44478978b"
 metafile = true
 
 [[files]]
@@ -974,3 +1044,11 @@ metafile = true
 file = "resourcepacks/enchantment-descriptions-compat.pw.toml"
 hash = "bc0ce38c70bb6f4d685f665123e12b56ff47129185965a75d4c6b8964f4a0222"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "42aa64ede3a7654e03fe53f2eb8d71a7ff619062f621b9d3db6536c1a2acbb78"
+
+[[files]]
+file = "unsup.jar"
+hash = "973b84f231dee775e4855e084448b350e7f593678f20025c35912a3ab359fa54"
