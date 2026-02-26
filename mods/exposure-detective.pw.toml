@@ -1,0 +1,13 @@
+name = "Exposure: Detective"
+filename = "Exposure Detective-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rZsQks7N/versions/UvsmmJ2D/Exposure%20Detective-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "0c0f3460742231b4c6a9f52618923309e03a8d319b38c917d161cc4da3a7b5f8016cbb612adfb118f6d32428afc0786a5ce201715cdc7379ff42e782de85e1a5"
+
+[update]
+[update.modrinth]
+mod-id = "rZsQks7N"
+version = "UvsmmJ2D"
