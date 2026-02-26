@@ -1044,11 +1044,3 @@ metafile = true
 file = "resourcepacks/enchantment-descriptions-compat.pw.toml"
 hash = "bc0ce38c70bb6f4d685f665123e12b56ff47129185965a75d4c6b8964f4a0222"
 metafile = true
-
-[[files]]
-file = "unsup.ini"
-hash = "42aa64ede3a7654e03fe53f2eb8d71a7ff619062f621b9d3db6536c1a2acbb78"
-
-[[files]]
-file = "unsup.jar"
-hash = "973b84f231dee775e4855e084448b350e7f593678f20025c35912a3ab359fa54"
